@@ -1,2 +1,2 @@
-# CodewithSwaroop
+# LetsbuildCodeWithJavascript.
 Javascript tutorials
